@@ -1,0 +1,27 @@
+div{
+    size: 300px;
+}
+
+
+h1 {
+    font-size: 20px;
+    font-family: 'Kanit', sans-serif;
+    text-align: right;
+
+}
+h2{
+    font-size: 15px;
+    font-family: 'Kanit', sans-serif; 
+    text-align: right;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Kanit', sans-serif;
+    text-align: center;
+}
+img {
+    width:  300px;
+    height: 300px;
+
+}
